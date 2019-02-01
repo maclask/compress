@@ -1,2 +1,2 @@
-# compress
-Text compressor
+# Compress
+Text compressor in C++.
